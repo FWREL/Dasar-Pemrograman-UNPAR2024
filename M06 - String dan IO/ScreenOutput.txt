@@ -1,0 +1,20 @@
+1. 1010.0String example
+
+2. Yang membedakan yaitu metode untuk print atau memberikan outputnya, diawal menggunakan print() dimana hasilnya pasti akan sebaris dan tanpa spasi. Untuk metode kedua ini menggunakan println() dimana hasilnya pasti akan berbeda baris.
+
+3. 
+20
+20.0
+String example!!
+
+4. Perbedaannya pada kode sebelumnya itu kode diubah valuenya saat proses output (println) sementara pada kode kedua itu pengubahannya dideklarasikan dulu sebelumnya, kemudian di panggil saat println, output dari keduanya sama saja.
+
+5. Pada baris pertama output yang dihasilkan adalah penjumlahan stringValue1 + intValue2 + intValue3 sehingga outputnya hanya deretan angka tanpa dijumlahkan bilangannya, sementara pada baris kedua itu intValue2 + intValue3 nya itu dijumlah dulu kemudian outputnya digabungkan antara string dan int.
+
+6. Pada baris pertama ditambahkan spasi diantaranya, sementara pada baris kedua ditambahkan spasi di awal sebelum int.
+
+7. Untuk printf ini berguna untuk formating, dimana value yang ingin dikeluarkan itu spesifik, seperti harus ada "." setiap berapa angka, kemudian memberikan spasi juga bisa untuk value selanjutnya. Sementara untuk println/print itu berguna hanya untuk menampilkan data saja tanpa formatting.
+
+8. [3.14 ] -5 itu artinya value didalam sama harus berjumlah 5 karakter dan mines disana berguna untuk menambahkan spasi setelah value yang ingin ditampilkan. 2 disana sebagai format dimana angka yang muncul setelah koma hanya 2 digit saja, oleh karna itu setelah angka 4 terisi spasi karna hanya boleh 2 angka setelah koma dan perlu 5 karakter pada outpunya.
+
+9. [0003.14] karna pada formatting diminta 0 untuk mengisi kekosongan karakter, jika 0 tersebut tidak ada maka akan terisi oleh spasi.

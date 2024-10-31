@@ -1,0 +1,8 @@
+10. Ketika inputnya "John Doe" maka yang akan terbaca hanya "John" karna disana tipe scanner nya next() bukan nextLine() outputnya pun akan mengeluarkan "John"
+
+11. Pasti berperanguh untuk value outputnya. Jika kita input "Laki-laki" maka output yang keluarkan adalah L. Jadi pengambilan datanya berdasarkan huruf pertama.
+
+12. Cara dengan menggunakan nextLine() dimana scanner akan mengambil seluruh kata-kata yang dimasukkan.
+
+13.
+John, jenis kelamin L berumur 18 dengan penghasilan sebesar 15.59. Telah terctat di Kantor Pajak!
